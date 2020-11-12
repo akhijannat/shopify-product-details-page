@@ -41,7 +41,6 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.2;
 }
 
-
 button, input, optgroup, select, textarea:focus{
     /* outline: inherit; */
     margin: 0;
@@ -54,6 +53,9 @@ button, input, optgroup, select, textarea:active {
     outline: none;
 }
 
+
+
+
 /* Utilities Class */
 .container {
     max-width: 1230px;
@@ -62,9 +64,6 @@ button, input, optgroup, select, textarea:active {
 .margin-bottom-100 {
     margin-bottom: 100px;
 }
-
-
-
 
 .section-heading h2,
 .section-heading h4 {
@@ -89,8 +88,6 @@ button, input, optgroup, select, textarea:active {
 
 
 /* New Product Icon style */
-
-
 .pro-icon-wrapper {
     margin: 0 auto;
     width: 120px;
@@ -126,7 +123,6 @@ button, input, optgroup, select, textarea:active {
 }
 
 .icon-description {
-    /* visibility: hidden; */
     display: none;
 }
 
