@@ -19,8 +19,6 @@
 }
 
 
-
-
 body {
     font-family: 'FuturaPTBook';
 }
@@ -42,13 +40,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     line-height: 1.2;
 }
-.container {
-    max-width: 1230px;
-    margin: 0 auto;
-}
-.margin-bottom-100 {
-    margin-bottom: 100px;
-}
+
 
 button, input, optgroup, select, textarea:focus{
     /* outline: inherit; */
@@ -61,6 +53,15 @@ button, input, optgroup, select, textarea:focus{
 button, input, optgroup, select, textarea:active {
     outline: none;
 }
+
+.container {
+    max-width: 1230px;
+    margin: 0 auto;
+}
+.margin-bottom-100 {
+    margin-bottom: 100px;
+}
+
 
 
 
