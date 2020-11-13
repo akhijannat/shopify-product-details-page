@@ -68,7 +68,7 @@ button, input, optgroup, select, textarea:active {
 .section-heading h2,
 .section-heading h4 {
     font-weight: 400;
-    color: #515457;
+    color: #212529;
 }
 .section-heading h2{
     font-size: 30px;
@@ -186,12 +186,14 @@ button, input, optgroup, select, textarea:active {
    margin-bottom: 0;
    font-weight: 600;
    color: #000;
+   font-family: 'FuturaPTDemi';
 }
 .product-image-grid  .product-card-content-wrapper p {
    font-size: 13px;
    margin: 3px 0;
    font-weight: 600;
    color: #212529;
+   letter-spacing: 1.5px;
 }
 .product-image-grid  .product-card-content-wrapper .money{
    font-size: 13px;
